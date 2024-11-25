@@ -1,4 +1,4 @@
-# Filtering-with-AND-OR-and-NOT-Operators
+# SQL Database Filtering Using AND, NOT and LIKE Operators
 ## Objective
 Use ```AND```, ```OR```, and ```NOT``` operators to filter log in attempts in the Maria Database.
 ## Tasks
